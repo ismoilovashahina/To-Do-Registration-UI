@@ -167,7 +167,7 @@
         android:layout_marginBottom="56dp"
         android:fontFamily="@font/inter_regular"
         android:text="Sign In"
-        android:textColor="#48C2DC"
+        android:textColor="#1998A0"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
